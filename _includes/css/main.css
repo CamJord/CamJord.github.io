@@ -93,6 +93,8 @@ header .container {
 
 header img {
     display: block;
+    width: 180px;       /* Asspect ratio for headshot */
+    height: 230px;
     margin: 0 auto 20px;
 }
 
