@@ -52,7 +52,7 @@ address:
   - line: Eugene, OR
 
 # Credits content
-credits: 'Website uses open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Website uses open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. <br> Icons from <a href="https://flaticon.com">FlatIcon</a>'
 
 # Build settings
 markdown: kramdown
